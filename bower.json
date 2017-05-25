@@ -36,5 +36,9 @@
     "redis",
     "ioredis"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0",
+    "purescript-debug": "^3.0.0"
+  }
 }
